@@ -96,5 +96,5 @@
 ## CONCLUSION
 ### The project demonstrates the understanding of employees, their attrition records and how they can improve by using actionable insights.
 
-### Author: Sneha Sharma
-### www.linkedin.com/in/12sneha-sharma
+#### Author: Sneha Sharma
+#### www.linkedin.com/in/12sneha-sharma
