@@ -8,11 +8,11 @@ HR EMPLOYEE ATTRITOIN ANALYSIS
 
 ## BUSINESS PROBLEM
 ### The HR department wants to answer the following business questions:
-•	Which department experience the highest employee attrition?
-•	Which job roles have the highest turnover?
-•	Does overtime contribute to employee attrition?
-•	Which employee age groups have highest attrition and require better retention strategies?
-•	How does salary vary across departments?
+### •Which department experience the highest employee attrition?
+### •Which job roles have the highest turnover?
+### •Does overtime contribute to employee attrition?
+### •Which employee age groups have highest attrition and require better retention strategies?
+### •How does salary vary across departments?
 ---
 
 
