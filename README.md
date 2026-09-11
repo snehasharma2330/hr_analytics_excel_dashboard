@@ -2,8 +2,8 @@
 HR EMPLOYEE ATTRITOIN ANALYSIS
 
 ## PROJECT OVERVIEW
-Employee attrition is a critical challenge for organisation as it increases recruitment costs, affects productivity and impacts overall business performance. This project analyzes HR data to identify workforce trends, understand the factors contributing to employee attrition. 
-An interactive dashboard was developed in **Microsoft Excel** using Pivot Tables, Charts, KPI Cards and Slicers to monitor key workforce metrics and support data-driven decision making.
+### Employee attrition is a critical challenge for organisation as it increases recruitment costs, affects productivity and impacts overall business performance. This project analyzes HR data to identify workforce trends, understand the factors contributing to employee attrition. 
+### An interactive dashboard was developed in **Microsoft Excel** using Pivot Tables, Charts, KPI Cards and Slicers to monitor key workforce metrics and support data-driven decision making.
 ---
 
 ## BUSINESS PROBLEM
