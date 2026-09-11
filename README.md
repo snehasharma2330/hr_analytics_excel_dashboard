@@ -33,10 +33,10 @@ HR EMPLOYEE ATTRITOIN ANALYSIS
 ### •Data Validation
 ---
 ## DATA CLEANING AND TRANSFORMATION
-•	Converted the dataset into Excel Table for dynamic analysis.
-•	Checked for missing values and duplicate Employee Numbers.
-•	Validated data consistency across categorical columns.
-•	Removed unnecessary columns with constant values like Above 18 ages.
+### •Converted the dataset into Excel Table for dynamic analysis.
+### •Checked for missing values and duplicate Employee Numbers.
+### •Validated data consistency across categorical columns.
+### •Removed unnecessary columns with constant values like Above 18 ages. 
 
 •	Created helper columns for:
 - Age Group
@@ -59,12 +59,12 @@ HR EMPLOYEE ATTRITOIN ANALYSIS
 
 
 ### Interactive Visualizations
-•	Attrition by department
-•	Gender distribution by attrition
-•	Overtime vs attrition
-•	Attrition by job role
-•	Attrition by age group
-•	Average monthly salary by department
+### •Attrition by department
+### •Gender distribution by attrition
+### •Overtime vs attrition
+### •Attrition by job role
+### •Attrition by age group
+### •Average monthly salary by department
 
 ### Interactive Filters
 •	Gender
@@ -78,19 +78,19 @@ HR EMPLOYEE ATTRITOIN ANALYSIS
 
 
 ## KEY INSIGHTS
-### The organisation has 1470 total employees of which 237 left, resulting in an attrition rate of 16%.
-### The Research and Development department recorded the highest employee attrition (133 employees) , followed by Sales (92 employees) while Human Resources had the lowest attrition (12 employees).
-### Laboratory Technician (62 employees) and Sales Execution (57 employees) experienced the highest employee turnover among all job roles.
-### The (26-35) age group recorded the highest employee attrition, suggesting that early to mid-career employees are more likely to leave the organisation.
-### The Average Monthly Income across the organisation is 6503 with the Human Resource department reporting the highest average salary among the departments.
+###  The organisation has 1470 total employees of which 237 left, resulting in an attrition rate of 16%.
+###  The Research and Development department recorded the highest employee attrition (133 employees) , followed by Sales (92 employees) while Human Resources had the lowest attrition (12 employees).
+###  Laboratory Technician (62 employees) and Sales Execution (57 employees) experienced the highest employee turnover among all job roles.
+###  The (26-35) age group recorded the highest employee attrition, suggesting that early to mid-career employees are more likely to leave the organisation.
+###  The Average Monthly Income across the organisation is 6503 with the Human Resource department reporting the highest average salary among the departments.
 ---
 
 ## BUSINESS RECOMMENDATIONS
-### Prioritize retention initiatives like career growth, rewards, compensation and workplace flexibility in the Research and Development and Sales departments, which together account for 225 of the 237 attrition cases
-### Review overtime policies and workload distribution, especially for employees regularly working overtime, to help reduce burnout and salary enhancement to improve retention.
-### Take feedback suggestion discussions and career development with employees in those roles which they have the highest turnover to know the employee’s needs.
-### Develop targeted engagement and career growth programs for the employees in the 26-35 age group where attrition is highest.
-### Monitor promotion cycles and identify employees with long promotion gaps to improve career growth and employee satisfaction.
+###  Prioritize retention initiatives like career growth, rewards, compensation and workplace flexibility in the Research and Development and Sales departments, which together account for 225 of the 237 attrition cases
+###  Review overtime policies and workload distribution, especially for employees regularly working overtime, to help reduce burnout and salary enhancement to improve retention.
+###  Take feedback suggestion discussions and career development with employees in those roles which they have the highest turnover to know the employee’s needs.
+###  Develop targeted engagement and career growth programs for the employees in the 26-35 age group where attrition is highest.
+###  Monitor promotion cycles and identify employees with long promotion gaps to improve career growth and employee satisfaction.
 ---
 
 ## CONCLUSION
